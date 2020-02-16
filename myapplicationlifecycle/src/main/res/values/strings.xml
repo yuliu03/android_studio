@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application lifecycle</string>
+    <string name="title_activity_baty">b activity label：弹出框，不会让父程序结束</string>
+</resources>
