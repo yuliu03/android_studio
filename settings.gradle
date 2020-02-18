@@ -1,2 +1,2 @@
-include ':app', ':myapplicationlogin', ':myapplicationlifecycle', ':sendargs', ':launchmode', ':okhttp', ':retrofit_gson_okhttp'
+include ':app', ':myapplicationlogin', ':myapplicationlifecycle', ':sendargs', ':launchmode', ':okhttp', ':retrofit'
 rootProject.name='My Application'

@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
                         for (int i = 0; i < headers.size(); i++) {
                             System.out.println(headers.name(i) + ":" + headers.value(i));
                         }
-                        System.out.println("post method onResponse: " + response.body().string());
+                        System.out.println("post method onResponse of url http://192.168.59.1:9999/Menu/selectListRecursive: " + response.body().string());
                     }
                 });
             }
