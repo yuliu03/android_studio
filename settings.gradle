@@ -1,2 +1,2 @@
-include ':app', ':myapplicationlogin', ':myapplicationlifecycle', ':sendargs', ':launchmode', ':okhttp', ':retrofit'
-rootProject.name='My Application'
+include ':myapplicationlogin', ':myapplicationlifecycle', ':sendargs', ':launchmode', ':okhttp', ':retrofit', ':webview',
+        rootProject.name='My Application'
